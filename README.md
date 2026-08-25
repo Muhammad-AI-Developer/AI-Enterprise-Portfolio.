@@ -43,4 +43,4 @@ An asynchronous, contextual chat agent simulation designed to manage global cust
 If you'd like to discuss these projects, collaboration, or potential roles, please feel free to reach out:
 
 * **GitHub:** [Muhammad-Al-Developer](https://github.com)
-* **LinkedIn:** [Insert your LinkedIn Profile Link Here]
+* **LinkedIn:** [https://www.linkedin.com/in/mhamad-sy-851910430]
