@@ -77,6 +77,17 @@ An asynchronous, contextual chat agent simulation designed to manage global cust
 ```
 
 ---
+### 📊 Project 3: Arabic Sentiment Analysis Engine
+An intelligent natural language processing (NLP) script built with **Python** to analyze and classify text sentiments into positive, negative, or neutral categories using algorithmic keyword weights.
+* **Core Skills:** NLP, Text Splitting, Logic-driven Classification.
+* **File:** `sentiment_analysis.py`
+
+### 💬 Project 4: Automated AI Customer Support Engine
+A production-ready contextual chatbot integration built using **Python** and the **OpenAI API** (`gpt-4o-mini`) designed to handle corporate customer automation queries dynamically.
+* **Core Skills:** LLM API Integration, System Prompts, Asynchronous Workflows.
+* **File:** `chatbot.py`
+
+---
 
 ## 📬 Contact & Connect
 
